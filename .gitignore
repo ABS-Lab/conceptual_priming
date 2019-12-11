@@ -1,3 +1,4 @@
 first_level*
 *.nii
 *.nii.gz
+covariates
